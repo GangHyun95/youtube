@@ -1,7 +1,9 @@
 # Youtube 사이트 클론코딩
 
 ## 🔎 프로젝트 소개
-Youtube API 를 사용하여 Youtube 사이트를 클론코딩하였습니다.
+Youtube Api를 사용하여 Youtube 사이트를 클론코딩하였습니다.
+
+React-query를 이용하여 데이터를 관리하였습니다.
 
 ## 🔨 사용 기술
 
